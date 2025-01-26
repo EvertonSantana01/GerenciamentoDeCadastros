@@ -114,5 +114,4 @@ Exibição detalhada de Estados, Cidades, Funcionários, Clientes, Fornecedores 
 
 ## 📽️ Demonstração em Vídeo
 
-Confira uma demonstração completa do sistema no YouTube:
 [![](https://img.youtube.com/vi/eN6YZk3tL_s/0.jpg)](https://www.youtube.com/watch?v=eN6YZk3tL_s)
